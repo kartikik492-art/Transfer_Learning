@@ -3,15 +3,15 @@ This is an academic deep learning project.
 
 ## Project Overview
 
--Binary image classification (Dog vs Cat)
--Dataset collected from Kaggle
--Data preprocessing and model execution done using Google Colab
+- Binary image classification (Dog vs Cat)
+- Dataset collected from Kaggle
+- Data preprocessing and model execution done using Google Colab
 
 ## Tools & Technologies
 
--Python
--Google Colab
--Kaggle Dataset
+- Python
+- Google Colab
+- Kaggle Dataset
 
 ### Note
 
