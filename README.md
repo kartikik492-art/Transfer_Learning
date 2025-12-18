@@ -1,4 +1,4 @@
-Dog vs Cat Image Classification
+<h1>Dog vs Cat Image Classification</h1>
 This is an academic deep learning project.
 
 Project Overview
